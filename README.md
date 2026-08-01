@@ -16,9 +16,9 @@ The project is being built in three phases. This README explicitly separates **w
 
 | Phase | Description | Status |
 |-------|-------------|--------|
-| **Phase 1** | Demand forecasting (Python/pandas) + order-list generation | ✅ **Completed** |
-| **Phase 2** | Stock counting via computer vision (YOLOv8) | 🚧 **In progress** |
-| **Phase 3** | Web interface with manager approval and PDF export | 📋 **Planned** |
+| **Phase 1** | Demand forecasting (Python/pandas) + order-list generation |  **Completed** |
+| **Phase 2** | Stock counting via computer vision (YOLOv8) | **In progress** |
+| **Phase 3** | Web interface with manager approval and PDF export | **Planned** |
 
 *Last updated: August 2026.*
 

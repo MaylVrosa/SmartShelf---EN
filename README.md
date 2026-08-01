@@ -115,12 +115,12 @@ python smartshelf.py
 ├── .gitignore
 │
 ├── data/                         # SYNTHETIC data (never real data)
-│   ├── produtos.csv
-│   ├── resumo_mensal.csv
-│   ├── sazonalidade_top15.csv
-│   ├── vendas_diarias_2021_2025.csv
-│   ├── vendas_mensais_2021_2025.csv
-│   └── vendas_semanais_2021_2025.csv
+│   ├── products.csv
+│   ├── monthly_summary.csv
+│   ├── seasonality_top15.csv
+│   ├── daily_sales_2021_2025.csv
+│   ├── monthly_sales_2021_2025.csv
+│   └── weekly_sales_2021_2025.csv
 │
 └── dataset/                      # Phase 2: image dataset (being annotated)
 ```
